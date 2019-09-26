@@ -45,16 +45,16 @@ a:active {
   }
 
   .blue {
-    background-color: rgb(41, 52, 150);
+    background-color: rgb(199, 32, 101);
     border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 10px 10px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 15px;
     border-radius: 4px;
-    width: 30%;
+    width: 20%;
     
   }
 
@@ -76,22 +76,22 @@ body{
 .topnav {
 
     overflow: hidden;
-    background-color: #333;
+    background-color: rgb(255, 253, 249);
   }
   
   /* Navbar links */
 .topnav a {
     float: left;
     display: block;
-    color: #f2f2f2;
+    color: #363636;
     text-align: center;
     padding: 14px 16px;
-    text-decoration: none;
+    text-decoration: black;
 }
   
   /* Links - change color on hover */
 .topnav a:hover {
-    background-color: #ddd;
+    background-color: rgb(231, 230, 230);
     color: black;
 }
   
@@ -115,13 +115,13 @@ body{
   }
 
   .caixa{
-      margin-left: 25%;
+      margin-left: 32%;
       margin-right: 20%;
       margin-top: 6%;
-      text-align: center;
+      text-align: left;
       background-color: rgb(255, 255, 255);
       padding: 50px;
-      width: 40%;
+      width: 30%;
       border-radius: 30px;
   }
 
@@ -132,7 +132,7 @@ body{
     margin-top: 6%;
     
     background-color: rgb(255, 255, 255);
-    padding: 90px;
+    padding: 40px;
     width: 40%;
     border-radius: 30px;
 }
